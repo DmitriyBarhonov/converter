@@ -1,0 +1,15 @@
+{
+	"title": "Super Converter",
+	"linkConverter": "Converter",
+	"linkRates": "Exchange Rates",
+	"buttonConvert": "Convert",
+	"buttonSearch": "Search",
+	"alert": "Enter correct data",
+	"quantity": "Quantity",
+	"from": "From",
+	"to": "To",
+	"specifyCurrency": "Specify the currency in the format 'USD'",
+	"baseCurrency": "Base currency",
+	"errorServerConverter": "The request failed. Enter correct data",
+	"currentExchangeRate": "Current exchange rate"
+}

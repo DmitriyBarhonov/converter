@@ -1,0 +1,90 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.lang_btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lang_btn div{
+    margin: 1rem 1rem;
+}
+.lang_btn div button{
+    padding: 0 2rem;
+}
+
+
+.title{
+    text-align: center;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.nav div a{
+    margin: 0 1rem;
+    text-decoration: none;
+    color: black;
+}
+
+.grid{
+     display: grid;
+     grid-template-columns: repeat(6, 1fr);
+     font-size: 1rem;
+     gap: 1rem;
+     align-items: center;
+     text-align: center;
+}
+
+.grid div{
+   border: 1px solid rgb(173, 235, 255);
+   background: rgba(255, 255, 255, 0);
+   padding: .5rem 1rem;
+   transition: .5s;
+
+}
+.grid div:hover{
+    background: rgb(166, 197, 247);
+}
+
+.loader{
+    text-align: center;
+}
+
+.loader img{
+    width: 50%;
+}
+.input{
+    width: 300px;
+    margin: 1rem 0 1rem 0;
+}
+
+.input_title{
+    font-size: 1em;
+    margin: .5rem 0;
+    padding-left: 0;
+}
+
+.main_page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input_converter{
+    width: 300px;
+}
+
+.btn_converter{
+    margin-top: 1rem;
+}
+
+.result{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}

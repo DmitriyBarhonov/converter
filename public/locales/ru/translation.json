@@ -1,0 +1,15 @@
+{
+	"title": "Супер конвертер",
+	"linkConverter": "Конвертер",
+	"linkRates": "Курс валют",
+	"buttonConvert": "Конвертировать",
+	"buttonSearch": "Искать",
+	"quantity": "Количество",
+	"alert": "Введите корректные данные",
+	"from": "Из",
+	"to": "В",
+	"specifyCurrency": "Укажите валюту в формате 'RUB'",
+	"baseCurrency": "Базовая валюта",
+	"errorServerConverter": "Ошибка запроса. Введите коректные данные", 
+	"currentExchangeRate": "Актуальный курс"
+}
